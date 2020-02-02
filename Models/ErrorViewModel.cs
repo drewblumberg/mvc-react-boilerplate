@@ -1,6 +1,6 @@
 using System;
 
-namespace mvc_react_boilerplate.Models
+namespace MvcTypescriptBoilerplate.Models
 {
     public class ErrorViewModel
     {

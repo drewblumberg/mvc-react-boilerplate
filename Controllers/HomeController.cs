@@ -5,9 +5,9 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using mvc_react_boilerplate.Models;
+using MvcTypescriptBoilerplate.Models;
 
-namespace mvc_react_boilerplate.Controllers
+namespace MvcTypescriptBoilerplate.Controllers
 {
     public class HomeController : Controller
     {

@@ -1,8 +1,8 @@
 {
-  "name": "mvc-react-boilerplate",
+  "name": "mvc-typescript-boilerplate",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "git@github.com:drewblumberg/mvc-react-boilerplate.git",
+  "repository": "git@github.com:drewblumberg/mvc-typescript-boilerplate.git",
   "author": "Drew Blumberg <alblumberg21@gmail.com>",
   "license": "MIT",
   "scripts": {

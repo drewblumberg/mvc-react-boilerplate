@@ -7,7 +7,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 
-namespace mvc_react_boilerplate
+namespace MvcTypescriptBoilerplate
 {
     public class Program
     {
