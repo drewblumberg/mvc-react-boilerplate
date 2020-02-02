@@ -1,4 +1,4 @@
-# MVC React Boilerplate
+# MVC Typescript Boilerplate
 
 This is a simple boilerplate for web applications developed in .Net Core 3.1.
 
