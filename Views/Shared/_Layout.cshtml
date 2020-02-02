@@ -6,6 +6,7 @@
     <title>@ViewData["Title"] - MvcTypescriptBoilerplate</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" />
+    <link rel="stylesheet" href="~/css/compiled/global_styles.css" />
 </head>
 <body>
     <header>
@@ -44,10 +45,10 @@
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
     <environment include="Production">
-        <script src="~/js/bundle.min.js" asp-append-version="true"></script>
+        <script src="~/js/compiled/global.min.js" asp-append-version="true"></script>
     </environment>
     <environment include="Development">
-        <script src="~/js/bundle.js" asp-append-version="true"></script>
+        <script src="~/js/compiled/global.js" asp-append-version="true"></script>
     </environment>
 
     @RenderSection("Scripts", required: false)

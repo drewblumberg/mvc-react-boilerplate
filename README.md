@@ -21,4 +21,5 @@ This is a simple boilerplate for web applications developed in .Net Core 3.1.
 # Elements
 1. Webpack
 2. Typescript
-3. Entity Framework Core packages and MVC configuration
+3. Sass
+4. Entity Framework Core packages and MVC configuration
