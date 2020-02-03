@@ -9,7 +9,7 @@ This is a simple boilerplate for web applications developed in .Net Core 3.1.
 
 # Setup steps
 1. Clone the repo locally
-2. Go to the repo directory (`cd mvc-typescript-boilerplate`)
+2. Go to the repo directory (`cd MvcTypescriptBoilerplate`)
 3. Run `yarn install`
 4. (Optional) Prepare EF Core for Database Creation
     1. Replace all references to MvcTypescriptBoilerplate and MvcTypescriptBoilerplateContext with your project name
