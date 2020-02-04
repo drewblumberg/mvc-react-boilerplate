@@ -23,3 +23,4 @@ This is a simple boilerplate for web applications developed in .Net Core 3.1.
 2. Typescript
 3. Sass
 4. Entity Framework Core packages and MVC configuration
+5. Basic Docker Configuration
